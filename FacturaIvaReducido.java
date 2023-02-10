@@ -9,5 +9,3 @@ public class FacturaIvaReducido extends Factura{
      }
      
     }
-
-    //hola
