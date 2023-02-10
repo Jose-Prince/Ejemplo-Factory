@@ -4,7 +4,6 @@ private int id;
 private double importe;
 private Carrito compras;
 
-
 public Carrito getCompras() {
     return this.compras;
 }
