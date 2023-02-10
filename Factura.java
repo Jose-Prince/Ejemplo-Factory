@@ -1,7 +1,18 @@
 public abstract class Factura {
  
 private int id;
- private double importe;
+private double importe;
+private Carrito compras;
+
+
+public Carrito getCompras() {
+    return this.compras;
+}
+
+public void setCompras(Carrito compras) {
+    this.compras = compras;
+}
+
  public int getId() {
  return id;
  }
