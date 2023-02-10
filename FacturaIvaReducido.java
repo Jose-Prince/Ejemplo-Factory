@@ -7,5 +7,3 @@ public class FacturaIvaReducido extends Factura{
      }
      
     }
-
-    //Fase 3
