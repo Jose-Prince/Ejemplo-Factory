@@ -3,6 +3,7 @@ public abstract class Factura {
 private int id;
 private double importe;
 private Carrito compras;
+//agregración
 
 public Carrito getCompras() {
     return this.compras;
